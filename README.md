@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjain198&label=Profile%20views&color=0e75b6&style=flat" alt="vjain198" /> </p>
 
-- 🔭 I’m currently working on [newsapp](https://github.com/Vjain198/newsapp)
+- 🔭 I’m currently working on NextJs 14
 
-- 🌱 I’m currently learning **NextJs , TypeScript , ReactJs , NodeJS**
+- 🌱 I’m currently learning **NextJs 14, TypeScript, ReactJs, NodeJS, GraphQL, Postgress, TailwindCss **
 
 - 💬 Ask me about **react , next**
 
